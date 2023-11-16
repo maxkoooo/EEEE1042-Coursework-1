@@ -16,10 +16,6 @@ int main(int argc, char **argv){
     int S = 25;         //initialisation for the maximum size of the bars of the histogram
     char B = 'o';       //for setting the style of the histogram bars
 
-    argc = 3;
-    argv[1] = "input.hist";
-    argv[2] = "input.txt";
-
     
     if (argc>1){        //process files if input is given
         /*.hist output*/
