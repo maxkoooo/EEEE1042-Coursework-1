@@ -1,4 +1,4 @@
-# EEEE1043 Coursework 1
+# EEEE1042 Coursework 1
 The main task of this coursework is to create a program in C that is able to read data from a file and plot an ASCII histogram using that data.
 
 A report that explains the design decisions behind the program is attached.
