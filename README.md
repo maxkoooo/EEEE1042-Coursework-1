@@ -3,11 +3,11 @@ The main task of this coursework is to create a program in C that is able to rea
 
 A report that explains the design decisions behind the program is attached.
 
-# Requirements
+## Requirements
 - A computer
 - Console
 
-# Usage
+## Usage
 1. Download the .exe and open your preferred console.
 2. Run the file and pass 2 arguments to it: a .hist file and a .txt file.
 
